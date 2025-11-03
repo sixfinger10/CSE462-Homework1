@@ -12,4 +12,4 @@ https://www.youtube.com/shorts/vwVPNdjwyos
 ## Kod
 
 Projenin kaynak kodları bu depodadır.
-Yakup Genç (`yakup.genc@gtu.edu.tr`) collaborator (iş birlikçi) olarak eklenmiştir.
+Doç. Dr.  Yakup Genç (`yakup.genc@gtu.edu.tr`) collaborator (iş birlikçi) olarak eklenmiştir.
